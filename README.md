@@ -1,0 +1,3 @@
+# Course-Project-Database-Systems
+
+Library management system is a project which aims in developing a computerized system to maintain all the daily work of the library. This project has many features which are generally not available in normal library management systems, like the facility of admin login through which the admin can monitor the whole system. The librarian, after logging into his account, can generate various options such as add book, view book, and delete book. The student can issue book, renew book, return book, and check the book due after the book is returned. Overall, this project of ours is being developed to help staff of the library to maintain the library in the best way possible and also reduce the human efforts.
